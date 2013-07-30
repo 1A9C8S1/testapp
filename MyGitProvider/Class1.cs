@@ -8,5 +8,6 @@ namespace MyGitProvider
 {
     public class Class1
     {
+        //Created for testing purpose
     }
 }
